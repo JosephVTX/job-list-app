@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/JosephVTX/job-list-app)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://job-list-app-mu.vercel.app/)
 
 ## My process
 
@@ -75,9 +75,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://www.your-site.com) Coming Soon!!
+- Frontend Mentor - [@JosephVTX](https://www.frontendmentor.io/profile/JosephVTX)
 
 ## Acknowledgments
 
